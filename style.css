@@ -1,0 +1,26 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+.heading
+{
+font-size: 25px;
+width: 90%;
+margin: 1px;
+background-color: darkslateblue;
+color: hotpink;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 7px 7px 7px rgb(59, 4, 85);
+border-radius: 15px;
+margin-top: 180px;
+}
